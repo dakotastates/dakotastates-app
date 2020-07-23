@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My personal app for personal branding, resumes, and projects
 
 ## Available Scripts
 
